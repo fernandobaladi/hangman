@@ -15,5 +15,10 @@ Rules are simple:
 
 * Python 3 or superior
 
+# Data
+
+Words are random chosen from data.txt, that have 200 English words. If you want, you are free to add more words.
+Note: Hyphens are not managed in the English words.
+
 If you like it give me a star!
 
